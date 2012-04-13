@@ -1,7 +1,11 @@
 test git
+<<<<<<< HEAD
 from github
 <<<<<<< HEAD
 2
 =======
 1
 >>>>>>> 59bdc883f68bb874461e1314c81098885f0e2385
+=======
+from github
+>>>>>>> 883589a3e1acb5291dac66f218482797830e823d
