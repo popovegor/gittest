@@ -1,3 +1,7 @@
 test git
 from github
+<<<<<<< HEAD
 2
+=======
+1
+>>>>>>> 59bdc883f68bb874461e1314c81098885f0e2385
